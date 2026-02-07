@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スポットレイト",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-02-07T13:45:53.110798Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スポットレイト",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_スポットレイト_稲葉曇.txt"
+    }
+  ]
+}
